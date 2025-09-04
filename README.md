@@ -9,6 +9,17 @@ All scripts and notebooks should work seamlessly on the IPSL mésocentre computi
 
 ## Usage
 
+### Analogs
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
+### UNETs
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
+### Figures and notebooks
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 
 ## Data
 
