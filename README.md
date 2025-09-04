@@ -9,21 +9,40 @@ All scripts and notebooks should work seamlessly on the IPSL mésocentre computi
 
 ## Usage
 
-### Analogs
+### Analogs 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+For best performance, use on machines with >120gb ram, if you don't have enough ram you can always play with the chunk sizes to prevent your ram from running out.
+
+-
+-
+-
+-
+- 
 
 ### UNETs
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Tensorflow is most efficient with GPUs, make sure you have one available.
+
+-
+-
+-
+-
 
 ### Figures and notebooks
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+All the figures in my report were produced with the notebooks in this repo
+
+-
+-
+-
+-
+-
 
 ## Data
 
 The data needed is from IPSL-CM6A-LR and ERA5. Both available online [here](https://esgf-node.ipsl.upmc.fr/search/cmip6-ipsl/) and [here](https://cds.climate.copernicus.eu/).
+
+The models and analogs are available [here]()
 
 ## Contributing
 
