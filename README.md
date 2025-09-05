@@ -11,8 +11,8 @@ All scripts and notebooks should work seamlessly on the IPSL mésocentre computi
 
 ### Preprocess
 
-- ERA5_preprocess.py : preprocess the data, encoding time as $year*10^4+month*10^2+day$
-- IPSL_CM6A_LR_preprocess.py : same, also merges the data from the 33 IPSL-CM6A-LR runs, encoding time as $run*10^8+year*10^4+month*10^2+day$
+- ERA5_preprocess.py : preprocess the data, encoding time as `year*10^4+month*10^2+day`
+- IPSL_CM6A_LR_preprocess.py : same, also merges the data from the 33 IPSL-CM6A-LR runs, encoding time as `run*10^8+year*10^4+month*10^2+day`
 - train_val_sets.py : separates both datasets as 80% training, 20% validation
 
 ### Analogs 
