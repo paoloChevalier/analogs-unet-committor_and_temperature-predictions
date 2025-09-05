@@ -21,7 +21,7 @@ Preprocessing scripts
 
 For best performance, use on machines with >120gb ram, if you don't have enough ram you can always play with the chunk sizes to prevent your ram from running out.
 
-- compute_analogs.py : necessary functions to compute analogs and some computations.
+- compute_analogs.py : necessary functions to compute analogs and some computations. Examples in this file should be enough to reuse the script.
 
 ### UNETs
 
