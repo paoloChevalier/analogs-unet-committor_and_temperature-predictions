@@ -27,10 +27,7 @@ For best performance, use on machines with >120gb ram, if you don't have enough 
 
 Tensorflow is most efficient with GPUs, make sure you have one available.
 
--
--
--
--
+-architecture_input-variables_to_output-variables.py : files defining the model and training it for input variables and output variables.
 
 ### Figures and notebooks
 
